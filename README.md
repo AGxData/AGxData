@@ -26,17 +26,20 @@
 
 
 
-  <!-- Data Analysis & Valdation -->
-  <h3>Data Analysis & Valdation</h3>
+  <!-- Data Analysis -->
+  <h3>Data Analysis</h3>
 <a href="https://numpy.org/doc/" target="_blank"> <!-- NumPy -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" height ="50"/>
   </a>
-<a href="https://numpy.org/doc/" target="_blank"> <!-- NumPy -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" height ="50"/>
+<a href="https://scipy.org/" target="_blank"> <!-- SciPy -->
+    <img style="margin: 10px" src="https://images.opencollective.com/scipy/c7e4afc/logo/256.png" alt="SciPy" height ="50"/>
   </a>
   <a href="https://pandas.pydata.org/docs/" target="_blank"> <!-- Pandas -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" height ="50"/>
   </a>   
+<a href="https://pola.rs/" target="_blank"> <!-- Polars -->
+    <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/83768144?v=4" alt="Polars" height ="50"/>
+  </a>
 <a href="https://pola.rs/" target="_blank"> <!-- Polars -->
     <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/83768144?v=4" alt="Polars" height ="50"/>
   </a>   
@@ -48,7 +51,6 @@
 <a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50"/>
 </a>
-
 <a href="https://seaborn.pydata.org/index.html" target="_blank"> <!-- Seaborn -->
   <img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50"/>
 </a>
@@ -58,15 +60,13 @@
 <a href="https://altair-viz.github.io/" target="_blank"> <!-- Altair -->
   <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22396732?s=200&v=4" alt="Altair" height="50"/>
 </a>
-<a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
+<a href="https://holoviews.org/" target="_blank"> <!-- HoloViews -->
+  <img style="margin: 10px" src="https://holoviews.org/_static/logo.png" alt="HoloViews" height="50"/>
 </a>
-<a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
+<a href="https://geopandas.org/en/stable/" target="_blank"> <!-- GeoPandas -->
+  <img style="margin: 10px" src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="GeoPandas" height="50"/>
 </a>
-<a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
-</a>
+
   
   <!-- Data Science & Machine Learning -->
   <h3>Data Science & Machine Learning</h3>
@@ -82,9 +82,6 @@
   
 
 
-  <a href="https://www.anaconda.com/" target="_blank"> <!-- Anaconda -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50"/>
-  </a>
 
 
 
@@ -101,9 +98,9 @@
   </a>
   <a href="https://www.sqlalchemy.org/" target="_blank"> <!-- MySQL -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="50"/>
-  </a>  
-  <a href="https://duckdb.org/" target="_blank"> <!-- Google BigQuery -->
-    <img style="margin: 10px" src="" alt="DuckDB" height="50"/>
+  </a> 
+  <a href="https://duckdb.org/" target="_blank"> <!-- DuckDB -->
+    <img style="margin: 10px; width: 50px; height: 50px; border-radius: 50%; display: block;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZZfZ_f1vJc-b_Z6q3CxDPChmKHBGZdsI1A&s" alt="DuckDB" height="50"/>
   </a>
 
 
@@ -112,11 +109,17 @@
   <a href="https://code.visualstudio.com/docs" target="_blank"> <!-- VScode -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height ="50"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank"> <!-- Jupyter -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Jupyter" height="50"/>
+  </a>
   <a href="https://colab.research.google.com/" target="_blank"> <!-- Google Colab -->
     <img style="margin: 10px" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="50"/>
   </a>
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <!-- R -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="R Studio" height ="50"/>
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank"> <!-- Anaconda -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50"/>
   </a>
   <a href="https://github.com/" target="_blank"> <!-- Git -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height ="50"/>
@@ -127,35 +130,38 @@
 
 
 
-  <!-- Mobile Development -->
-  <h3>Mobile Development</h3>
-  <a href="https://docs.flutter.dev/" target="_blank"> <!-- Flutter -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height ="50"/>
+  <!-- Design & Documentation Tools -->
+  <h3>Design & Documentation Tools</h3>
+<a href="https://www.lucidchart.com/" target="_blank"> <!-- Lucidchart -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mermaid/mermaid-original.svg" alt="Lucidchart" height="50" />
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank"> <!-- Visio -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Visio" height="50" />
+</a>
+<a href="https://www.latex-project.org/" target="_blank"> <!-- LaTeX -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="50" />
+</a>
+<a href="https://quarto.org/" target="_blank"> <!-- Quarto -->
+  <img style="margin: 10px" src="https://user-images.githubusercontent.com/1769619/195922332-4308bb3c-ccfd-47e6-b6a6-f48b94c22fcf.svg" alt="Quarto" height="50" />
+</a>
+  <a href="https://www.markdownguide.org/" target="_blank"> <!-- Markdown -->
+    <img style="margin: 10px" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/markdown-4.png" alt="Markdown" height ="50"/>
   </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank"> <!-- XCode -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="XCode" height ="55"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank"> <!-- Android Studio -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="50"/>
-  </a>
+<a href="https://www.canva.com/" target="_blank"> <!-- Canva -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="50" />
+</a>
+<a href="https://www.gimp.org/" target="_blank"> <!-- GIMP -->
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="GIMP" height="50" />
+</a>
 
-  <!-- Other Tools -->
-  <h3>Other Tools</h3>
+
+  <!-- Productivity & AI -->
+  <h3>Productivity & AI</h3>
   <a href="https://www.notion.so/" target="_blank"> <!-- Notion -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" height="50"/>
   </a>  
-  <a href="https://www.latex-project.org/" target="_blank"> <!-- LaTeX -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="LaTeX" height ="50"/>
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank"> <!-- Markdown -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" alt="Markdown" height ="50"/>
-  </a>
   <a href="https://www.perplexity.ai/" target="_blank"> <!-- Perplexity -->
     <img style="margin: 10px" src="https://www.perplexity.ai/favicon.ico" alt="Perplexity" height="50"/>
   </a>
-  <a href="https://www.raspberrypi.org/" target="_blank"> <!-- Raspberry Pi -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="50"/>
-  </a>
+
 </div>
-message.txt
-15 KB
