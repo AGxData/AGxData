@@ -76,10 +76,6 @@
   </a>         
  
 
-  <a href="https://www.kaggle.com/docs" target="_blank"> <!-- Kaggle -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" height ="55"/>
-  </a>
-  
 
 
 
