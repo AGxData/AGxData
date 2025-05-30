@@ -30,28 +30,33 @@
   <h3>Data Analysis & Valdation</h3>
 <a href="https://numpy.org/doc/" target="_blank"> <!-- NumPy -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" height ="50"/>
-</a>
+  </a>
 <a href="https://numpy.org/doc/" target="_blank"> <!-- NumPy -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" height ="50"/>
-</a>
+  </a>
   <a href="https://pandas.pydata.org/docs/" target="_blank"> <!-- Pandas -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" height ="50"/>
   </a>   
+<a href="https://pola.rs/" target="_blank"> <!-- Polars -->
+    <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/83768144?v=4" alt="Polars" height ="50"/>
+  </a>   
+
 
 
   <!-- Data Visualization -->
-  <h3>Data Analysis & Valdation</h3>
+  <h3>Data Visualization</h3>
 <a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50"/>
 </a>
-<a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
+
+<a href="https://seaborn.pydata.org/index.html" target="_blank"> <!-- Seaborn -->
+  <img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50"/>
 </a>
 <a href="https://plotly.com/" target="_blank"> <!-- Plotly -->
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" height="50"/>
 </a>
-<a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
+<a href="https://altair-viz.github.io/" target="_blank"> <!-- Altair -->
+  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22396732?s=200&v=4" alt="Altair" height="50"/>
 </a>
 <a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" alt="Matplotlib" height="50"/>
