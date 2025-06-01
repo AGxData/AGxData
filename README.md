@@ -116,7 +116,7 @@
     <img style="margin: 10px" src="https://rasbt.github.io/mlxtend/img/logo.png" alt="MLxtend" height ="50"/>
   </a>
   <a href="https://www.tidymodels.org/" target="_blank"> <!-- tidymodels -->
-    <img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tidymodels.org%2F&psig=AOvVaw0qZOSNy2f2PS7DZSXjuHaK&ust=1748846296428000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjvm6TOz40DFQAAAAAdAAAAABAL" alt="SciPy" height ="50"/>
+    <img style="margin: 10px" src="https://www.tidymodels.org/images/tidymodels.png" alt="SciPy" height ="50"/>
   </a>
    <a href="https://facebook.github.io/prophet/" target="_blank"> <!-- Prophet -->
     <img style="margin: 10px" src="https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png" alt="Prophet" height ="50"/>
