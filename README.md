@@ -86,11 +86,12 @@
 <a href="https://holoviews.org/" target="_blank"> <!-- HoloViews -->
   <img style="margin: 10px" src="https://holoviews.org/_static/logo.png" alt="HoloViews" height="50"/>
 </a>
+<a href="https://lux-api.readthedocs.io/en/latest/" target="_blank"> <!-- HoloViews -->
+  <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2aBcsLKmGlK4hx75RUDjm-XYSsnvlH04j8UG_nbc7ih-pdqooignxbOl9-cVELm5JcrNyv-HPytlUJljOWWV-gk5kzi_nPr3MKOQ_u4YjJLtTugK1FXeOGj5cKNiHStemx_emcvq57GyGnNTmJFDD7E0LE6H5vNrLu4VNUta9TGM-Gy6DrgFN5Tsh/s320/lux_icon.png" alt="Lux" height="50"/>
+</a>
 <a href="https://geopandas.org/en/stable/" target="_blank"> <!-- GeoPandas -->
   <img style="margin: 10px" src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="GeoPandas" height="50"/>
 </a>
-
-
 
   
   <!-- Statistical Modeling & Machine Learning -->
