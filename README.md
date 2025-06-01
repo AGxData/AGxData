@@ -48,6 +48,9 @@
 <a href="https://pandera.readthedocs.io/en/stable/" target="_blank"> <!-- Pandera -->
     <img style="margin: 10px" src="https://raw.githubusercontent.com/pandera-dev/pandera/master/docs/source/_static/pandera-logo.png" alt="Pandera" height ="50"/>
   </a>
+<a href="https://recordlinkage.readthedocs.io/en/latest/" target="_blank"> <!-- Recordlinkage -->
+  <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhti0KOeJzQHmnp8D6GUW0Yw9Mlp6GKXNASj_k4CcBioDx6rVuOP-lnKxdlZkdbQW5B3R92CUmA3R8sXBkiKG4Z87ZYUX4-0HwpRZGOrxSXVKUxY6A3zPV8jPi6ikeNG_HiKw8_30bwlMlCDIaCpW-K-M8anlmucOWSQ812sHDCX5N-czGhKWXVWNn6/s320/recordlinkage_icon.png" alt="Recordlinkage" height="50"/>
+  </a>
 <a href="https://github.com/dedupeio/dedupe" target="_blank"> <!-- Dedupe -->
     <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/27521766?s=48&v=4" alt="Dedupe" height ="50"/>
   </a> 
@@ -82,6 +85,8 @@
 <a href="https://geopandas.org/en/stable/" target="_blank"> <!-- GeoPandas -->
   <img style="margin: 10px" src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="GeoPandas" height="50"/>
 </a>
+
+
 <!-- Missing Recordlinkage -->
 <!-- Missing Splink -->
 
@@ -132,7 +137,7 @@ https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="50"/>
   </a> 
   <a href="https://duckdb.org/" target="_blank"> <!-- DuckDB -->
-    <img style="margin: 10px; width: 50px; height: 50px; border-radius: 50%; display: block;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZZfZ_f1vJc-b_Z6q3CxDPChmKHBGZdsI1A&s" alt="DuckDB" height="50"/>
+    <img style="margin: 10px; width: 50px; height: 50px; border-radius: 50%; display: block;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeUsQc_k2vEJ1TkcCL-UKEY1FHYjhwCIbAgVYdpW6qRsB3XsnT6n3mVueWPGfsEc_5aTL-vTAtMjqzBAvhUch6nKWFAmfmD82zJtOrXX9PRFmgV1Iq00m3tdhxYzR8yCtdWrs1E2WRwwYabW1y_v0CojyTKsYZhwch-iJUYnrD7S1QuHtIZQAex0Pv/s320/duckdb_icon.png" alt="DuckDB" height="50"/>
   </a>
 
 
