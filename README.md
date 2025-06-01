@@ -56,13 +56,15 @@
   </a>
 <a href="https://github.com/dedupeio/dedupe" target="_blank"> <!-- Dedupe -->
     <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/27521766?s=48&v=4" alt="Dedupe" height ="50"/>
+  </a>
+<a href="https://rapidfuzz.github.io/RapidFuzz/" target="_blank"> <!-- RapidFuzz -->
+    <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/118009645?s=280&v=4" alt="RapidFuzz" height ="50"/>
   </a> 
 <a href="https://textacy.readthedocs.io/en/latest/" target="_blank"> <!-- Textacy -->
     <img style="margin: 10px" src="https://repository-images.githubusercontent.com/51014761/65a3a900-5bc9-11ea-83b6-a240979b1c37" alt="Textacy" height ="50"/>
   </a> 
 
   </a> 
-
 
 
 
@@ -86,13 +88,15 @@
 <a href="https://holoviews.org/" target="_blank"> <!-- HoloViews -->
   <img style="margin: 10px" src="https://holoviews.org/_static/logo.png" alt="HoloViews" height="50"/>
 </a>
-<a href="https://lux-api.readthedocs.io/en/latest/" target="_blank"> <!-- HoloViews -->
+<a href="https://lux-api.readthedocs.io/en/latest/" target="_blank"> <!-- Lux -->
   <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2aBcsLKmGlK4hx75RUDjm-XYSsnvlH04j8UG_nbc7ih-pdqooignxbOl9-cVELm5JcrNyv-HPytlUJljOWWV-gk5kzi_nPr3MKOQ_u4YjJLtTugK1FXeOGj5cKNiHStemx_emcvq57GyGnNTmJFDD7E0LE6H5vNrLu4VNUta9TGM-Gy6DrgFN5Tsh/s320/lux_icon.png" alt="Lux" height="50"/>
 </a>
 <a href="https://geopandas.org/en/stable/" target="_blank"> <!-- GeoPandas -->
   <img style="margin: 10px" src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="GeoPandas" height="50"/>
 </a>
-
+<a href="https://qgis.org/" target="_blank"> <!-- QGis -->
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" alt="QGis" height="50"/>
+</a>
   
   <!-- Statistical Modeling & Machine Learning -->
   <h3>Statistical Modeling & Machine Learning</h3>
@@ -105,20 +109,21 @@
   <a href="https://pingouin-stats.org/build/html/index.html" target="_blank"> <!-- Pingouin -->
     <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN6X4W8gXKmDaOj6q_44rZo4ZT31kpLuOOhlnJABItisnIq9cLrDDyQTwfpmKMWTPAGrx1PSPyGNs-7sdtnqnKbWoGbK6TzY2uBbbJnacMKUpoDqI1LGnU4M2Q6fnhJXlYwvMetkp05bMBR-HxtOUAoIOVqWHJ90taFxKcRMiX-vTFGXZ96KFz9c0k/s1600/pingouin_icon.png" alt="Pingouin" height ="50"/>
   </a>
-  
-  <a href="https://scipy.org/" target="_blank"> <!-- SciPy -->
-    <img style="margin: 10px" src="https://images.opencollective.com/scipy/c7e4afc/logo/256.png" alt="SciPy" height ="50"/>
-  </a>
-  <a href="https://scipy.org/" target="_blank"> <!-- SciPy -->
-    <img style="margin: 10px" src="https://images.opencollective.com/scipy/c7e4afc/logo/256.png" alt="SciPy" height ="50"/>
-  </a>
-  <a href="https://scipy.org/" target="_blank"> <!-- SciPy -->
-    <img style="margin: 10px" src="https://images.opencollective.com/scipy/c7e4afc/logo/256.png" alt="SciPy" height ="50"/>
-  </a>
   <a href="https://scikit-learn.org/stable/" target="_blank"> <!-- Scikit-Learn -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height ="50"/>
   </a>         
- 
+  <a href="https://rasbt.github.io/mlxtend/" target="_blank"> <!-- MLxtend -->
+    <img style="margin: 10px" src="https://rasbt.github.io/mlxtend/img/logo.png" alt="MLxtend" height ="50"/>
+  </a>
+  <a href="https://www.tidymodels.org/" target="_blank"> <!-- tidymodels -->
+    <img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tidymodels.org%2F&psig=AOvVaw0qZOSNy2f2PS7DZSXjuHaK&ust=1748846296428000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjvm6TOz40DFQAAAAAdAAAAABAL" alt="SciPy" height ="50"/>
+  </a>
+   <a href="https://facebook.github.io/prophet/" target="_blank"> <!-- Prophet -->
+    <img style="margin: 10px" src="https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png" alt="Prophet" height ="50"/>
+  </a>
+  <a href="https://unit8co.github.io/darts/" target="_blank"> <!-- Darts -->
+    <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_XfGK7eZDqyqCMjD4-44h-R7dFD-IpN22P-bSw6OWTWjqqaezALWn6PqHyfzZIl8EYvm0xVc3odi_fCIl-frOxbj-o46L5N7SwBYgyMGjszJgqFT-_-gpdSceyzwveBkVLIu55Xor_8cDdZ6WqedI0hrlpGHPAW_GBJ1EdYB2so4aVpQ2j6WLCuXY/s320/darts_icon.png" alt="Darts" height ="50"/>
+  </a>
 
 
 
