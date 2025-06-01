@@ -51,6 +51,9 @@
 <a href="https://recordlinkage.readthedocs.io/en/latest/" target="_blank"> <!-- Recordlinkage -->
   <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhti0KOeJzQHmnp8D6GUW0Yw9Mlp6GKXNASj_k4CcBioDx6rVuOP-lnKxdlZkdbQW5B3R92CUmA3R8sXBkiKG4Z87ZYUX4-0HwpRZGOrxSXVKUxY6A3zPV8jPi6ikeNG_HiKw8_30bwlMlCDIaCpW-K-M8anlmucOWSQ812sHDCX5N-czGhKWXVWNn6/s320/recordlinkage_icon.png" alt="Recordlinkage" height="50"/>
   </a>
+<a href="https://moj-analytical-services.github.io/splink/index.html" target="_blank"> <!-- Splink -->
+  <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkkJY8gDlkoySU3LUguqlAUib5_yHASdN3-SSLBSQFYyKnVXRqBdCEoG77RUzf4CyyMANDeXE2_cYKRkYMZlub3zYftDcOU91OYcq90gHwC0ywUc7EUpIh2HQOoRcMw7AxcPcBTBHMXZH5BuisbrY0xNbN3K_chxRGh72fFEWdHqxVyOgL1om25bwi/s320/splink_icon.png" alt="Splink" height="50"/>
+  </a>
 <a href="https://github.com/dedupeio/dedupe" target="_blank"> <!-- Dedupe -->
     <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/27521766?s=48&v=4" alt="Dedupe" height ="50"/>
   </a> 
@@ -59,6 +62,7 @@
   </a> 
 
   </a> 
+
 
 
 
@@ -87,8 +91,6 @@
 </a>
 
 
-<!-- Missing Recordlinkage -->
-<!-- Missing Splink -->
 
   
   <!-- Statistical Modeling & Machine Learning -->
@@ -116,9 +118,6 @@
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height ="50"/>
   </a>         
  
-
-
-https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg
 
 
 
