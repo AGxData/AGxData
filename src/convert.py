@@ -4,7 +4,7 @@ import os
 import urllib
 import urllib.request as req
 
-with open('agnyc.md') as f:
+with open('src/src.md') as f:
     base = f.read()
 
 txt = re.compile('<!--.*?-->').sub('', base)
