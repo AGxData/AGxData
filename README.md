@@ -97,6 +97,7 @@
 <a href="https://qgis.org/" target="_blank"> <!-- QGis -->
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" alt="QGis" height="50"/>
 </a>
+
   
   <!-- Statistical Modeling & Machine Learning -->
   <h3>Statistical Modeling & Machine Learning</h3>
@@ -152,7 +153,7 @@
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height ="50"/>
   </a>
   <a href="https://jupyter.org/" target="_blank"> <!-- Jupyter -->
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Jupyter" height="50"/>
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="50"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank"> <!-- Google Colab -->
     <img style="margin: 10px" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="50"/>
