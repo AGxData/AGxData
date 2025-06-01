@@ -114,7 +114,7 @@
  <a href="https://skrub-data.org/stable/" target="_blank"> <!-- Skrub -->
     <img style="margin: 10px" src="https://camo.githubusercontent.com/1aec270fe7bc344343c3522dcc47f33339fd7fb52b0e091b27d45219ac220566/68747470733a2f2f736b7275622d646174612e6769746875622e696f2f737461626c652f5f7374617469632f736b7275622e737667" alt="Skrub" height ="50"/>
   <a href="https://feature-engine.trainindata.com/en/latest/" target="_blank"> <!-- Feature-engine -->
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Feature-engine" height ="50"/>
+    <img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:442/0*3k3HjCYJ8-kxNNHR.png" alt="Feature-engine" height ="50"/>
   </a>
   <a href="https://rasbt.github.io/mlxtend/" target="_blank"> <!-- MLxtend -->
     <img style="margin: 10px" src="https://rasbt.github.io/mlxtend/img/logo.png" alt="MLxtend" height ="50"/>
