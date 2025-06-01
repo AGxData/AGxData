@@ -102,7 +102,7 @@
     <img style="margin: 10px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="Statsmodels" height ="50"/>
   </a>
   <a href="https://pingouin-stats.org/build/html/index.html" target="_blank"> <!-- Pingouin -->
-    <img style="margin: 10px" src="" alt="Pingouin" height ="50"/>
+    <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN6X4W8gXKmDaOj6q_44rZo4ZT31kpLuOOhlnJABItisnIq9cLrDDyQTwfpmKMWTPAGrx1PSPyGNs-7sdtnqnKbWoGbK6TzY2uBbbJnacMKUpoDqI1LGnU4M2Q6fnhJXlYwvMetkp05bMBR-HxtOUAoIOVqWHJ90taFxKcRMiX-vTFGXZ96KFz9c0k/s1600/pingouin_icon.png" alt="Pingouin" height ="50"/>
   </a>
   
   <a href="https://scipy.org/" target="_blank"> <!-- SciPy -->
