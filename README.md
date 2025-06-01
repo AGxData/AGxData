@@ -184,7 +184,7 @@
   <!-- Design & Documentation Tools -->
   <h3>Design & Documentation Tools</h3>
 <a href="https://www.lucidchart.com/" target="_blank"> <!-- Lucidchart -->
-  <img style="margin: 10px" src="https://e7.pngegg.com/pngimages/625/214/png-clipart-lucidchart-logo-thumbnail-tech-companies-thumbnail.png" alt="Lucidchart" height="50" />
+  <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDrggbcd_HtXnYzm_jZowiSS5BDR_Y37NiQ6rNR-nkyGDV_1-P35TlWkzFoSGpuGguVe7u2sJADOjR5DxSK6bpXAWSNX7lYz5JnihqF196WwbnuqeORLeZ7GVdCb5fi7X27AcD5SsuzRdw2P7zTJa_CZeMWnp6Dk7DO3vlbFSqkO6tSJG5vWlfMxjI/s320/lucidchart_icon.png" alt="Lucidchart" height="50" />
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank"> <!-- Visio -->
   <img style="margin: 10px" src="https://download.logo.wine/logo/Microsoft_Visio/Microsoft_Visio-Logo.wine.png" alt="Visio" height="50" />
