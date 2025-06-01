@@ -40,8 +40,6 @@
 <a href="https://www.tidyverse.org/" target="_blank"> <!-- tidyverse -->
     <img style="margin: 10px" src="https://tidyverse.tidyverse.org/logo.png" alt="tidyverse" height ="50"/>
   </a>
-<a href="https://skrub-data.org/stable/" target="_blank"> <!-- Skrub -->
-    <img style="margin: 10px" src="https://camo.githubusercontent.com/1aec270fe7bc344343c3522dcc47f33339fd7fb52b0e091b27d45219ac220566/68747470733a2f2f736b7275622d646174612e6769746875622e696f2f737461626c652f5f7374617469632f736b7275622e737667" alt="Skrub" height ="50"/>
 <a href="https://greatexpectations.io/" target="_blank"> <!-- Great Expectations -->
     <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/31670619?s=200&v=4" alt="Great Expectations" height ="50"/>
   </a> 
@@ -112,7 +110,12 @@
   </a>
   <a href="https://scikit-learn.org/stable/" target="_blank"> <!-- Scikit-Learn -->
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height ="50"/>
-  </a>         
+  </a>
+ <a href="https://skrub-data.org/stable/" target="_blank"> <!-- Skrub -->
+    <img style="margin: 10px" src="https://camo.githubusercontent.com/1aec270fe7bc344343c3522dcc47f33339fd7fb52b0e091b27d45219ac220566/68747470733a2f2f736b7275622d646174612e6769746875622e696f2f737461626c652f5f7374617469632f736b7275622e737667" alt="Skrub" height ="50"/>
+  <a href="https://feature-engine.trainindata.com/en/latest/" target="_blank"> <!-- Feature-engine -->
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Feature-engine" height ="50"/>
+  </a>
   <a href="https://rasbt.github.io/mlxtend/" target="_blank"> <!-- MLxtend -->
     <img style="margin: 10px" src="https://rasbt.github.io/mlxtend/img/logo.png" alt="MLxtend" height ="50"/>
   </a>
@@ -122,10 +125,15 @@
    <a href="https://facebook.github.io/prophet/" target="_blank"> <!-- Prophet -->
     <img style="margin: 10px" src="https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png" alt="Prophet" height ="50"/>
   </a>
+   <a href="https://cran.r-project.org/web/packages/forecast/index.html" target="_blank"> <!-- Forecast -->
+    <img style="margin: 10px" src="https://pkg.robjhyndman.com/forecast/logo.png" alt="Forecast" height ="50"/>
+  </a>
   <a href="https://unit8co.github.io/darts/" target="_blank"> <!-- Darts -->
     <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_XfGK7eZDqyqCMjD4-44h-R7dFD-IpN22P-bSw6OWTWjqqaezALWn6PqHyfzZIl8EYvm0xVc3odi_fCIl-frOxbj-o46L5N7SwBYgyMGjszJgqFT-_-gpdSceyzwveBkVLIu55Xor_8cDdZ6WqedI0hrlpGHPAW_GBJ1EdYB2so4aVpQ2j6WLCuXY/s320/darts_icon.png" alt="Darts" height ="50"/>
   </a>
-
+  <a href="https://shap.readthedocs.io/en/latest/index.html" target="_blank"> <!-- Shap -->
+    <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifMb8Wd644hpmXg0FJNtJM5AyWqfgLIq4OW8NnLjLwiXBk993bMNgh2172epKkgeTKqiO77pRmckbnuOxi7g-e9QmLStKCP_keCgbh3ChQJyTpmKaQnKPCpvlBw8bJtdOD7Nhkm77fptSJumT0ZEgkxFhP2rE3clGE0LdnFtFGCsaxC75Ld7tyA3do/s1600/shap_icon.png" alt="Shap" height ="50"/>
+  </a>
 
 
 <!-- Databases -->
@@ -176,13 +184,10 @@
   <!-- Design & Documentation Tools -->
   <h3>Design & Documentation Tools</h3>
 <a href="https://www.lucidchart.com/" target="_blank"> <!-- Lucidchart -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mermaid/mermaid-original.svg" alt="Lucidchart" height="50" />
+  <img style="margin: 10px" src="https://e7.pngegg.com/pngimages/625/214/png-clipart-lucidchart-logo-thumbnail-tech-companies-thumbnail.png" alt="Lucidchart" height="50" />
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank"> <!-- Visio -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Visio" height="50" />
-</a>
-<a href="https://www.latex-project.org/" target="_blank"> <!-- LaTeX -->
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" height="50" />
+  <img style="margin: 10px" src="https://download.logo.wine/logo/Microsoft_Visio/Microsoft_Visio-Logo.wine.png" alt="Visio" height="50" />
 </a>
 <a href="https://quarto.org/" target="_blank"> <!-- Quarto -->
   <img style="margin: 10px" src="https://user-images.githubusercontent.com/1769619/195922332-4308bb3c-ccfd-47e6-b6a6-f48b94c22fcf.svg" alt="Quarto" height="50" />
