@@ -141,8 +141,11 @@
 <a href="https://www.postgresql.org/" target="_blank"> <!-- PostgreSQL -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height ="50"/>
 </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <!-- PostgreSQL -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <!-- Microsoft SQL Server -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" height ="50"/>
+</a>  
+<a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank"> <!-- Microsoft Access -->
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" alt="Access" height ="50"/>
 </a>  
 <a href="https://www.sqlite.org/docs.html" target="_blank"> <!-- SQLite -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height ="50"/>
@@ -153,6 +156,38 @@
 <a href="https://duckdb.org/" target="_blank"> <!-- DuckDB -->
 <img style="margin: 10px; width: 50px; height: 50px; border-radius: 50%; display: block;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeUsQc_k2vEJ1TkcCL-UKEY1FHYjhwCIbAgVYdpW6qRsB3XsnT6n3mVueWPGfsEc_5aTL-vTAtMjqzBAvhUch6nKWFAmfmD82zJtOrXX9PRFmgV1Iq00m3tdhxYzR8yCtdWrs1E2WRwwYabW1y_v0CojyTKsYZhwch-iJUYnrD7S1QuHtIZQAex0Pv/s320/duckdb_icon.png" alt="DuckDB" height="50"/>
 </a>
+
+
+<!-- BI Tools & Technology -->
+<h3>BI Tools & Technology</h3>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> <!-- Microsoft Power BI -->
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI" height ="50"/>
+</a>
+<a href="https://lookerstudio.google.com/" target="_blank"> <!-- Google Looker Studio -->
+<img style="margin: 10px" src="https://brandlogos.net/wp-content/uploads/2025/04/looker_studio-logo_brandlogos.net_b61td.png" alt="Looker Studio" height ="50"/>
+</a>
+<a href="https://altair.com/" target="_blank"> <!-- Altair -->
+<img style="margin: 10px" src="https://companieslogo.com/img/orig/ALTR-c0246b7f.png?t=1720244490" alt="Altair" height ="50"/>
+</a>
+<a href="https://www.sas.com/en_us/home.html" target="_blank"> <!-- SAS -->
+<img style="margin: 10px" src="https://images.icon-icons.com/2699/PNG/512/sas_logo_icon_170761.png" alt="SAS" height ="50"/>
+</a>
+<a href="https://www.sas.com/en_us/software/viya.html" target="_blank"> <!-- SAS Viya -->
+<img style="margin: 10px" src="https://github.com/user-attachments/assets/b16c639b-e751-4e4b-829e-52f044896e22" alt="SAS Viya" height ="50"/>
+</a>
+<a href="https://www.knime.com/" target="_blank"> <!-- KNIME -->
+<img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaMjAZp-dJwkF7nWeEjIEr207mqP0ZQvWKaQAj0a47V6ChXP_2fQI7DFHrNmEEnzBSoBKUUHOSvVP7CMZ6areUZca064aw37sgETOqmWoGf3JuUfXgWox14dzfpfK9Fr8xVjkSqZ3jjZLFnprpaQEnAfGsCVBUo_ZzP3It9myvXOEK0VPu_SDCgGLr/s1600/KNIME_icon.png" alt="KNIME" height ="50"/>
+</a>
+<a href="https://www.semrush.com/" target="_blank"> <!-- SEMrush -->
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/3648654?s=280&v=4" alt="SEMrush" height ="50"/>
+</a>
+<a href="https://mailchimp.com/" target="_blank"> <!-- Mailchimp -->
+<img style="margin: 10px" src="https://github.com/user-attachments/assets/1f725dc0-0a35-42c9-a29d-9227908bd328" alt="Mailchimp" height ="50"/>
+</a>
+<a href="https://www.qualtrics.com/" target="_blank"> <!-- Qualtrics XM -->
+<img style="margin: 10px" src="https://github.com/user-attachments/assets/68d8fd0b-fbe4-4fb5-a880-58a7571ebfe3" alt="Qualtrics" height ="50"/>
+</a>
+
 
 
 <!-- Development Tools -->
@@ -181,10 +216,14 @@
 
 
 
+
 <!-- Design & Documentation Tools -->
 <h3>Design & Documentation Tools</h3>
 <a href="https://www.lucidchart.com/" target="_blank"> <!-- Lucidchart -->
   <img style="margin: 10px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDrggbcd_HtXnYzm_jZowiSS5BDR_Y37NiQ6rNR-nkyGDV_1-P35TlWkzFoSGpuGguVe7u2sJADOjR5DxSK6bpXAWSNX7lYz5JnihqF196WwbnuqeORLeZ7GVdCb5fi7X27AcD5SsuzRdw2P7zTJa_CZeMWnp6Dk7DO3vlbFSqkO6tSJG5vWlfMxjI/s320/lucidchart_icon.png" alt="Lucidchart" height="50" />
+</a>
+<a href="https://www.mermaidchart.com/" target="_blank"> <!-- Mermaid Chart -->
+<img style="margin: 10px" src="https://mermaidchart.gallerycdn.vsassets.io/extensions/mermaidchart/vscode-mermaid-chart/2.3.0/1747145915244/Microsoft.VisualStudio.Services.Icons.Default" alt="Mermaid Chart" height="50" />
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank"> <!-- Visio -->
 <img style="margin: 10px" src="https://download.logo.wine/logo/Microsoft_Visio/Microsoft_Visio-Logo.wine.png" alt="Visio" height="50" />
@@ -207,5 +246,25 @@
 <h3>Productivity & AI</h3>
 <a href="https://www.notion.so/" target="_blank"> <!-- Notion -->
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" height="50"/>
-</a>  
+</a>
+<a href="https://trello.com/welcome-to-trello" target="_blank"> <!-- Trello -->
+<img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/trello-logo-svg-vector.svg" alt="Trello" height="50"/>
+</a>
+<a href="https://docs.zapier.com/platform/home" target="_blank"> <!-- Zapier -->
+<img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-svg-vector.svg" alt="Zapier" height="50"/>
+</a>
 <a href="https://www.perplexity.ai/" target="_blank"> <!-- Perplexity -->
+<img style="margin: 10px" src="https://zorgle.co.uk/wp-content/uploads/2024/11/Perplexity-logo.png" alt="Perplexity" height="50"/>
+</a>
+<a href="https://openai.com/" target="_blank"> <!-- OpenAI -->
+<img style="margin: 10px" src="https://github.com/user-attachments/assets/09197bf0-44a0-4a8c-84c1-f792fc6c23c1" alt="OpenAI" height="50"/>
+</a>
+<a href="https://gemini.google.com/app" target="_blank"> <!-- Google Gemini -->
+<img style="margin: 10px" src="https://brandlogos.net/wp-content/uploads/2025/03/gemini_icon-logo_brandlogos.net_bqzeu-512x512.png" alt="Gemini" height="50"/>
+</a>
+<a href="https://copilot.microsoft.com/" target="_blank"> <!-- Microsoft Copilot -->
+<img style="margin: 10px" src="https://brandlogos.net/wp-content/uploads/2023/09/microsoft_copilot-logo_brandlogos.net_zaqzr.png" alt="Copilot" height="50"/>
+</a> 
+
+
+
