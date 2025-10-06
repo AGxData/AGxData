@@ -13,7 +13,7 @@ Currently expanding my skills in applied statistics, Bayesian modeling, behavior
 ---
 
 ### 🛠 Tech Stack
-
+<div align="center">
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
 <a href="https://www.python.org/" target="_blank"> <!-- Python -->
@@ -39,7 +39,8 @@ Currently expanding my skills in applied statistics, Bayesian modeling, behavior
 </a> 
 <a href="https://www.tidyverse.org/" target="_blank"> <!-- tidyverse -->
 <img style="margin: 10px" src="https://tidyverse.tidyverse.org/logo.png" alt="tidyverse" height ="50"/>
-  
+</a> 
+
 <!-- Data Visualization -->
 <h3>Data Visualization</h3>
 <a href="https://matplotlib.org/" target="_blank"> <!-- Matplotlib -->
@@ -66,11 +67,9 @@ Currently expanding my skills in applied statistics, Bayesian modeling, behavior
 <a href="https://scikit-learn.org/stable/" target="_blank"> <!-- Scikit-Learn -->
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height ="50"/>
 </a>
-<a href="https://skrub-data.org/stable/" target="_blank"> <!-- Skrub -->
-<img style="margin: 10px" src="https://camo.githubusercontent.com/1aec270fe7bc344343c3522dcc47f33339fd7fb52b0e091b27d45219ac220566/68747470733a2f2f736b7275622d646174612e6769746875622e696f2f737461626c652f5f7374617469632f736b7275622e737667" alt="Skrub" height ="50"/>
-<a href="https://feature-engine.trainindata.com/en/latest/" target="_blank"> <!-- Feature-engine -->
+<a href="https://www.pymc.io/welcome.html" target="_blank"> <!-- Scikit-Learn -->
+<img style="margin: 10px" src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" alt="PyMC" height ="50"/>
 </a>
-
 
 ---
 
